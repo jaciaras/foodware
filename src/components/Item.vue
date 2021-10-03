@@ -1,6 +1,7 @@
 <template>
   <div class="item">
       <div class="item--tag" v-if="item.offer">Oferta</div>
+      <img class="item--img" :src="imagePath" alt="">
 
       <h2 class="item--title">{{item.title}}</h2>
       <p class="item--description">{{item.description}}</p>
@@ -18,8 +19,15 @@ export default {
     },
     props: {
         item: {}
-    }
-}
+    },
+    computed: {
+        selectedCategory() {
+            return this.$store.state.selectedCategory;
+        },
+        imagePath() {
+            return require(`../assets/images/${this.selectedCategory}/${this.item.id}.png`); 
+        }
+}}
 </script>
 
 <style lang="less" scoped>
@@ -41,6 +49,12 @@ export default {
             font-weight: 500;
             font-size: 12px;
             padding: 3px 8px;
+        }
+
+        &--img{
+            display: block;
+            margin: auto;
+            width: 100%;
         }
        
         &--title {
