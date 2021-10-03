@@ -3,42 +3,42 @@
     {
       "id": 1,
       "title": "Bacon",
-      "description": "molho de tomate, bacon, mussarela, orégano e azeitonas pretas",
+      "description": "bacon, mussarela, orégano e azeitonas pretas",
       "price": 45.0,
       "offer": false
     },
     {
         "id": 2,
         "title": "Margherita",
-        "description": "molho de tomate, mussarela, tomate, manjericão, azeitonas",
+        "description": "mussarela, tomate, manjericão, azeitonas",
         "price": 35.0,
         "offer": false
     },
     {
         "id": 3,
         "title": "Mix",
-        "description": "molho de tomate, mussarela, presunto de parma, calabresa e champignon ",
+        "description": "mussarela, presunto de parma, calabresa e champignon ",
         "price": 50.0,
         "offer": false
     },
     {
         "id": 4,
         "title": "Mussarela",
-        "description": "molho de tomare, queijo mussarela, orégano",
+        "description": "queijo mussarela, orégano",
         "price": 32.0,
         "offer": false
     },
     {
         "id": 5,
         "title": "Pepperoni",
-        "description": "molho de tomate, queijo mussarela, pepperoni e orégano",
+        "description": "queijo mussarela, pepperoni e orégano",
         "price": 21.0,
         "offer": true
     },
     {
         "id": 6,
         "title": "Rúcula",
-        "description": "molho de tomare, queijo mussarela, bacon e rúcula",
+        "description": "queijo mussarela, bacon e rúcula",
         "price": 36.0,
         "offer": false
     }
@@ -48,28 +48,28 @@
     {
       "id": 1,
       "title": "Xburguer",
-      "description": "dois hambúrgueres, alface, queijo, molho especial, cebola, picles em um pão com gergelim",
+      "description": "2 hambúrgueres, alface, queijo, cebola, picles",
       "price": 25.0,
       "offer": true
     },
     {
         "id": 2,
         "title": "Tasty",
-        "description": "dois hambúrgueres, queijo emennthal, tomate, alface, molho tasty em um pão com gergelim",
+        "description": "2 hambúrgueres, queijo emennthal, tomate, alface, molho tasty",
         "price": 30.0,
         "offer": false
       },
       {
         "id": 3,
         "title": "Bacon",
-        "description": "hambúrguer artesanal, bacon em fatias, queijo cheddar, tomate, alface em um pão artesanal",
+        "description": "hambúrguer, bacon, cheddar, tomate, alface",
         "price": 28.0,
         "offer": false
       },
       {
         "id": 4,
         "title": "Churrasco",
-        "description": "pernil defumado, maionese, mix de queijo gratinado, cebola roxa, molho barbecue em um pão tostado na manteiga",
+        "description": "pernil, maionese, queijo gratinado, cebola, molho barbecue",
         "price": 32.0,
         "offer": false
       },
@@ -83,7 +83,7 @@
       {
         "id": 6,
         "title": "Kids",
-        "description": "mini hamburger artesanal, queijo cheddar, ketchup em um pão com gergelim",
+        "description": "mini hamburger, queijo, ketchup",
         "price": 16.0,
         "offer": false
       }
