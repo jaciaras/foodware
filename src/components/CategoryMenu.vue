@@ -62,6 +62,7 @@ export default {
   width: 130px;
   height: 100vh;
   background: @light-orange;
+  min-width:130px;
 
   display: flex;
   align-items: center;

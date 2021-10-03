@@ -44,7 +44,9 @@ export default {
 
 <style style="less" scoped>
     .items-list {
+        width: 100%;
         margin: 50px;
         display: flex;
+        flex-wrap: wrap;
     }
 </style>

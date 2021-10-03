@@ -27,20 +27,6 @@
         "description": "queijo mussarela, orégano",
         "price": 32.0,
         "offer": false
-    },
-    {
-        "id": 5,
-        "title": "Pepperoni",
-        "description": "queijo mussarela, pepperoni e orégano",
-        "price": 21.0,
-        "offer": true
-    },
-    {
-        "id": 6,
-        "title": "Rúcula",
-        "description": "queijo mussarela, bacon e rúcula",
-        "price": 36.0,
-        "offer": false
     }
 
   ],
@@ -71,20 +57,6 @@
         "title": "Churrasco",
         "description": "pernil, maionese, queijo gratinado, cebola, molho barbecue",
         "price": 32.0,
-        "offer": false
-      },
-      {
-        "id": 5,
-        "title": "Ckicken",
-        "description": "frango empanado, alface, tomate, queijo em um pão com gergelim",
-        "price": 18.0,
-        "offer": true
-      },
-      {
-        "id": 6,
-        "title": "Kids",
-        "description": "mini hamburger, queijo, ketchup",
-        "price": 16.0,
         "offer": false
       }
 
@@ -171,13 +143,6 @@
           "title": "Cerveja",
           "description": "Unidade",
           "price": 6.99,
-          "offer": false
-        },
-        {
-          "id": 5,
-          "title": "Suco de Laranja",
-          "description": "300ml",
-          "price": 2.99,
           "offer": false
         }
       ]
