@@ -39,9 +39,12 @@ export default {
         { label: "Sobremesa", icon: "IceCream", id: "icecream" },
         { label: "Bebidas", icon: "Drinks", id: "drinks" },
       ],
-      selectedCategory: "pizza",
+      selectedCategory: ' '
     };
   },
+    mounted() {
+        this.onCategoryClick('pizza');
+    },
   methods: {
     onCategoryClick(id) {
       this.selectedCategory = id;

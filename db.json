@@ -43,4 +43,145 @@
         "offer": false
     }
 
-  ]}
+  ],
+  "burguers": [
+    {
+      "id": 1,
+      "title": "Xburguer",
+      "description": "dois hambúrgueres, alface, queijo, molho especial, cebola, picles em um pão com gergelim",
+      "price": 25.0,
+      "offer": true
+    },
+    {
+        "id": 2,
+        "title": "Tasty",
+        "description": "dois hambúrgueres, queijo emennthal, tomate, alface, molho tasty em um pão com gergelim",
+        "price": 30.0,
+        "offer": false
+      },
+      {
+        "id": 3,
+        "title": "Bacon",
+        "description": "hambúrguer artesanal, bacon em fatias, queijo cheddar, tomate, alface em um pão artesanal",
+        "price": 28.0,
+        "offer": false
+      },
+      {
+        "id": 4,
+        "title": "Churrasco",
+        "description": "pernil defumado, maionese, mix de queijo gratinado, cebola roxa, molho barbecue em um pão tostado na manteiga",
+        "price": 32.0,
+        "offer": false
+      },
+      {
+        "id": 5,
+        "title": "Ckicken",
+        "description": "frango empanado, alface, tomate, queijo em um pão com gergelim",
+        "price": 18.0,
+        "offer": true
+      },
+      {
+        "id": 6,
+        "title": "Kids",
+        "description": "mini hamburger artesanal, queijo cheddar, ketchup em um pão com gergelim",
+        "price": 16.0,
+        "offer": false
+      }
+
+  ],
+  
+  "fries": [
+    {
+      "id": 1,
+      "title": "Batata frita",
+      "description": "porção de batata frita, 200g",
+      "price": 10.0,
+      "offer": false
+    },
+    {
+        "id": 2,
+        "title": "Nuggets",
+        "description": "porção de nuggets, 10 unidades",
+        "price": 15.0,
+        "offer": false
+      }
+    ],
+    "icecream": [
+      {
+        "id": 1,
+        "title": "Casquinha Chocolate",
+        "description": "unidade",
+        "price": 2.50,
+        "offer": true
+      },
+      {
+        "id": 2,
+        "title": "Casquinha Creme",
+        "description": "unidade",
+        "price": 2.50,
+        "offer": true
+      },
+      {
+        "id": 3,
+        "title": "Casquinha Mista",
+        "description": "unidade",
+        "price": 2.50,
+        "offer": true
+      },
+      {
+        "id": 4,
+        "title": "Shake Morango",
+        "description": "300ml",
+        "price": 9.99,
+        "offer": false
+      },
+      {
+        "id": 5,
+        "title": "Shake Chocolate",
+        "description": "300ml",
+        "price": 9.99,
+        "offer": false
+      }
+      
+      ],
+      "drinks": [
+        {
+          "id": 1,
+          "title": "Coca-Cola",
+          "description": "unidade",
+          "price": 5.50,
+          "offer": false
+        },
+        {
+          "id": 2,
+          "title": "Guaraná",
+          "description": "unidade",
+          "price": 4.50,
+          "offer": false
+        },
+        {
+          "id": 3,
+          "title": "Água",
+          "description": "unidade",
+          "price": 2.50,
+          "offer": true
+        },
+        {
+          "id": 4,
+          "title": "Cerveja",
+          "description": "Unidade",
+          "price": 6.99,
+          "offer": false
+        },
+        {
+          "id": 5,
+          "title": "Suco de Laranja",
+          "description": "300ml",
+          "price": 2.99,
+          "offer": false
+        }
+      ]
+
+
+
+}
